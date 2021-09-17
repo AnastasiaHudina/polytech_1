@@ -1,8 +1,11 @@
-Lo spettacolo deve continuare,
-Lo spettacolo deve continuare
-Dentro il mio cuore si spezza
-Il mio trucco potrebbe essere desquamazione
-Ma il mio sorriso rimane ancora acceso.
+<<<<<<< HEAD
+=======
+El espectáculo debe continuar,
+El espectáculo debe continuar
+Dentro de mi corazón se rompe
+Mi maquillaje puede ser descamación
+Pero mi sonrisa aún se mantiene.
+>>>>>>> third
 
 Don't stop me now, I'm having such a good time
 I'm having a ball
