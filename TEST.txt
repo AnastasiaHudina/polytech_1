@@ -1,10 +1,5 @@
 <<<<<<< HEAD
-=======
-El espectáculo debe continuar,
-El espectáculo debe continuar
-Dentro de mi corazón se rompe
-Mi maquillaje puede ser descamación
-Pero mi sonrisa aún se mantiene.
+HELP!!!
 >>>>>>> third
 
 Don't stop me now, I'm having such a good time
